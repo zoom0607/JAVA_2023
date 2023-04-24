@@ -9,7 +9,7 @@ public class Student{
 	double weight;
 	//생성자
 	Student(){
-		weight = 50;
+		weight = 0;
 	}
 	
 	Student(String name, int age, int grade, int number, double weight){
