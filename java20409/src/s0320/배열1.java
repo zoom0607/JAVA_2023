@@ -26,9 +26,7 @@ public class 배열1 {
 		for (int i = 0; i < str.length; i++) {
 			System.out.println(str[i]);
 			
-			
-			
-		str.length =5;
+		
 		}
 		
 	}
