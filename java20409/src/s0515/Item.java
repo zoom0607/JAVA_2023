@@ -11,7 +11,7 @@ public  class Item {
 	
 	
 	//생성자
-	Item(){}
+	Item(){}//기본 생성자
 	
 	Item(String p1, int pri){
 		name = "제품명 : "+p1;//초기화
